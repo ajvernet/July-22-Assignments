@@ -1,0 +1,19 @@
+1) new Car()
+
+2) new Bean(200)
+
+3) new Airplane(23372036854L)
+
+4) new Bus(10)
+
+5) SkiLift(4, .5f, 4.0f)
+
+6) Gondola(4)
+
+7) Data("This String")
+
+8) CelestialObject(123.4)
+
+9) Sun(4.5)
+
+10) Pluto(false)
