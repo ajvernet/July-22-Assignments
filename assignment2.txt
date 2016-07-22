@@ -1,0 +1,19 @@
+1) public Car()
+ 
+2) public Car(String color, int drive)
+
+3) public Bus(Integer seats)
+
+4) public HotDog(String condiment1, String condiment2)
+
+5) public Aroma(String quality)
+
+6) public Behavior(Boolean isActive)
+
+7) public Assignment(Boolean isComplete)
+
+8) public AstronomicalDistance(int lightYearsX, int lightYearsY)
+
+9) public DateTime(int year, int month, int day)
+
+10) public Assignment(String instructions)
